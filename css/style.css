@@ -258,7 +258,7 @@ strong {
     left: 58px;
     border: medium solid white;
     border-width: 20px 20px 20px 0;
-    border-color: transparent white transparent transparent;
+    border-color: transparent var(--custom-btn-bg-color);
   }
 
   .timeline-container-left::after,
